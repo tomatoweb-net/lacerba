@@ -16,5 +16,6 @@ let myInterface: MyInterface = {
   myString: "hello world",
 };
 
+//commento
 console.log("myNumber= ", myInterface.myNumber);
 console.log("myString= ", myInterface.myString);

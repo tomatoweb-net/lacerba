@@ -7,6 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "markvaly",
+  "repository": {
+    "url": "https://github.com/tomatoweb-net/lacerba"
+  },
   "license": "ISC",
   "dependencies": {
     "typescript": "^5.2.2"
